@@ -1,6 +1,6 @@
 import pygame
 
-IMAGES = [pygame.image.load("Imgs/0.png"), pygame.image.load("Imgs/1.png"), pygame.image.load("Imgs/2.png")]
+IMAGES = [pygame.image.load("Images/0.png"), pygame.image.load("Images/1.png"), pygame.image.load("Images/2.png")]
 
 
 def draw_menu(screen) -> None:
